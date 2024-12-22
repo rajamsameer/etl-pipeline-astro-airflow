@@ -24,10 +24,7 @@ This project demonstrates a fully automated ETL (Extract, Transform, Load) pipel
 
 ## Usage  
 - Run the pipeline by triggering the DAG from the Airflow UI.  
-- Monitor progress and logs in the Airflow UI.  
-
-## License  
-This project is licensed under the [MIT License](LICENSE).  
+- Monitor progress and logs in the Airflow UI.    
 
 ## Tutorial  
 This project is based on a tutorial by **Krish Naik**, a popular YouTuber known for his data science and machine learning tutorials. Check out his YouTube channel for more tutorials: [Krish Naik YouTube Channel](https://www.youtube.com/c/KrishNaik).  
